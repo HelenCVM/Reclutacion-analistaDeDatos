@@ -11,3 +11,5 @@ La agencia pide que se optimice proceso de solicitud en línea. La tarea es resu
 -¿En qué meses se recibió el menor y el mayor número de solicitudes totales?
 
 -¿Cuál fue el número promedio de solicitudes recibidas por mes?
+
+<p> **Para ello se trabajara con la siguiente hoja de calculo:**</p>
