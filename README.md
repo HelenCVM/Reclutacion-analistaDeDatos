@@ -12,4 +12,4 @@ La agencia pide que se optimice proceso de solicitud en línea. La tarea es resu
 
 -¿Cuál fue el número promedio de solicitudes recibidas por mes?
 
-<p> **Para ello se trabajara con la siguiente hoja de calculo:**</p>
+<h4> Para ello se trabajara con la siguiente hoja de calculo:</h4>
