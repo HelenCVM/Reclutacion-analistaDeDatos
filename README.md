@@ -17,3 +17,9 @@ La agencia pide que se optimice proceso de solicitud en línea. La tarea es resu
 <hr>
 
 <h4>Variables o etiquetas:</h4>Los datos de la agencia contienen información sobre todas las solicitudes de empleo de análisis de datos recibidas en 2019. Los datos incluyen los siguientes encabezados de columna: Identificación del solicitante, Fecha, Título del trabajo, Ubicación del trabajo, Contratación y Solicitud fácil. A continuación, se muestra una descripción de cada encabezado de columna y ejemplos de valores.
+<ol>
+  <li>Julio</li>
+  <li>Carmen</li>
+  <li>Ignacio</li>
+  <li>Elena</li>
+</ol>
