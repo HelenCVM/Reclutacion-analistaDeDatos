@@ -48,3 +48,23 @@ La agencia pide que se optimice proceso de solicitud en línea. La tarea es resu
 
 <hr>
 <h3 align="center">:ballot_box_with_check:Respuestas</h3>
+<ol>
+  <li>¿Cuál fue el número total de solicitudes recibidas por mes en 2019?----R/</li>
+January	2387
+February	2312
+March	2536
+April	2544
+May	2954
+June	2990
+July	3138
+August	2969
+September	2865
+October	2751
+November	2508
+December	2642
+  <li>¿En qué meses se recibió el menor y el mayor número de solicitudes totales?----R/</li>
+Menor numero de solicitudes------February	2312
+Mayor numero de solicitudes------July	3138
+  <li>¿Cuál fue el número promedio de solicitudes recibidas por mes?----R/El número promedio de solicitudes recibidas por mes fue de2.716,333333</li>
+</ol>
+
