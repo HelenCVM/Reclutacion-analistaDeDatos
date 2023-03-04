@@ -67,4 +67,4 @@ La agencia pide que se optimice proceso de solicitud en línea. La tarea es resu
 <p>Mayor numero de solicitudes------July	3138</p>
   <li>¿Cuál fue el número promedio de solicitudes recibidas por mes?----R/El número promedio de solicitudes recibidas por mes fue de 2.716,333333</li>
 </ul>
-<h4> Resumen:</h4> [Datos_de resumen:Excel](https://github.com/HelenCVM/Reclutacion-analistaDeDatos/blob/main/2019_trabajos_de_an%C3%A1lisis_de_datos.xlsx) 
+<h4> Resumen:</h4> [Datos_de_resumen:Excel](https://github.com/HelenCVM/Reclutacion-analistaDeDatos/blob/main/2019_trabajos_de_an%C3%A1lisis_de_datos.xlsx) 
