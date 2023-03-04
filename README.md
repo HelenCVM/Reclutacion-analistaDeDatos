@@ -63,8 +63,8 @@ La agencia pide que se optimice proceso de solicitud en línea. La tarea es resu
 <p>November	2508</p>
 <p>December	2642</p>
   <li>¿En qué meses se recibió el menor y el mayor número de solicitudes totales?----R/</li>
-Menor numero de solicitudes------February	2312
-Mayor numero de solicitudes------July	3138
-  <li>¿Cuál fue el número promedio de solicitudes recibidas por mes?----R/El número promedio de solicitudes recibidas por mes fue de2.716,333333</li>
+<p>Menor numero de solicitudes------February	2312</p>
+<p>Mayor numero de solicitudes------July	3138</p>
+  <li>¿Cuál fue el número promedio de solicitudes recibidas por mes?----R/El número promedio de solicitudes recibidas por mes fue de 2.716,333333</li>
 </ul>
 
