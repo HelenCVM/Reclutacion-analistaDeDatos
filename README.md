@@ -67,4 +67,5 @@ La agencia pide que se optimice proceso de solicitud en línea. La tarea es resu
 <p>Mayor numero de solicitudes------July	3138</p>
   <li>¿Cuál fue el número promedio de solicitudes recibidas por mes?----R/El número promedio de solicitudes recibidas por mes fue de 2.716,333333</li>
 </ul>
+<p>Luego del analisis y las respuestas mostradas podemos ayudar a la agencia a determinar tendencias y saber en que meses se deben de aumentar las estrategias para llegar a mas y mejores postulantes.Quizas en el mes de Febrero se debe de incrementar la publicidad y utilizar fechas claves del mes.</p>
 <h4> Resumen:</h4> [Datos_de_resumen:Excel](https://github.com/HelenCVM/Reclutacion-analistaDeDatos/blob/main/2019_trabajos_de_an%C3%A1lisis_de_datos.xlsx) 
