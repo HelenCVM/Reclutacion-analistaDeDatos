@@ -12,7 +12,7 @@ La agencia pide que se optimice proceso de solicitud en línea. La tarea es resu
 
 -¿Cuál fue el número promedio de solicitudes recibidas por mes?
 
-<h4> Para ello se trabajara con la siguiente hoja de calculo:</h4> [Datos sin porcesar:Excel](https://github.com/HelenCVM/Reclutacion-analistaDeDatos/blob/main/datos-sin-procesar.xlsx) 
+<h4> Para ello se trabajara con la siguiente hoja de calculo:</h4> [Datos sin procesar:Excel](https://github.com/HelenCVM/Reclutacion-analistaDeDatos/blob/main/datos-sin-procesar.xlsx) 
 
 <hr>
 <h4> Problematica:</h4>Encontrar personas calificadas para optar por puestos de trabajo de analistas de datos con la informacion recolectada del sitio web de una agencia
@@ -67,4 +67,4 @@ La agencia pide que se optimice proceso de solicitud en línea. La tarea es resu
 <p>Mayor numero de solicitudes------July	3138</p>
   <li>¿Cuál fue el número promedio de solicitudes recibidas por mes?----R/El número promedio de solicitudes recibidas por mes fue de 2.716,333333</li>
 </ul>
-
+<h4> Resumen:</h4> [Datos_de resumen:Excel](https://github.com/HelenCVM/Reclutacion-analistaDeDatos/blob/main/2019_trabajos_de_an%C3%A1lisis_de_datos.xlsx) 
