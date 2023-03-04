@@ -69,3 +69,5 @@ La agencia pide que se optimice proceso de solicitud en línea. La tarea es resu
 </ul>
 <p>Luego del analisis y las respuestas mostradas podemos ayudar a la agencia a determinar tendencias y saber en que meses se deben de aumentar las estrategias para llegar a mas y mejores postulantes.Quizas en el mes de Febrero se debe de incrementar la publicidad y utilizar fechas claves del mes.</p>
 <h4> Resumen:</h4> [Datos_de_resumen:Excel](https://github.com/HelenCVM/Reclutacion-analistaDeDatos/blob/main/2019_trabajos_de_an%C3%A1lisis_de_datos.xlsx) 
+
+<h4> Observaciones:</h4> Si al importar el excel (2019_trabajos_de_análisis_de_datos.xlsx) en la hoja de calculo (datos_sin_procesar) columna G aparece en Español, poder en (Mas formastos)->(Automatico)
