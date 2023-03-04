@@ -18,6 +18,7 @@ La agencia pide que se optimice proceso de solicitud en línea. La tarea es resu
 <h4> Problematica:</h4>Encontrar personas calificadas para optar por puestos de trabajo de analistas de datos con la informacion recolectada del sitio web de una agencia
 
 <hr>
+<h3 align="center">SOLUCION</h3>
 <h4>Variables o etiquetas:</h4>Los datos de la agencia contienen información sobre todas las solicitudes de empleo de análisis de datos recibidas en 2019. Los datos incluyen los siguientes encabezados de columna: Identificación del solicitante, Fecha, Título del trabajo, Ubicación del trabajo, Contratación y Solicitud fácil. A continuación, se muestra una descripción de cada encabezado de columna y ejemplos de valores.
 <ul>
   <li>ID(Identificador):Identificador único para los solicitantes</li>
