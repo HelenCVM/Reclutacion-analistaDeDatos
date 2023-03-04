@@ -41,9 +41,10 @@ La agencia pide que se optimice proceso de solicitud en línea. La tarea es resu
   <li>En la celda B2, escribe =CONTAR.SI('datos_sin_procesar'!G:G,A2). La primera entrada ('datos_sin_procesar'!G:G) se refiere al intervalo en el cual se están contando los datos. El intervalo está en tu hoja de datos sin procesar ('datos_sin_procesar'!) e incluye toda la columna G(G:G). Esta columna contiene los datos de los meses. La segunda entrada (A2) se refiere al criterio que deseas contar. En este caso, el valor de la celda A2 de tu hoja de datos de resumen es “Enero(January)”. La función te dirá cuántas veces aparece Enero(January) (el criterio) en la columna Fecha (el intervalo).</li>
   <li>Copiamos la funcion para las siguientes celdas</li>
   <li>Usar la funcion (SUM) para sumar todas las solicitudes del año. El celda A14 escribo(Total) y en B14 la funcion (=SUMA(B2:B13))</li>
-  <li>Usar la funcion MIN</li>
-  <li>Usar la funcion MAX</li>
-  <li>Usar la funcion PROMEDIO</li>
-  <li></li>
-  <li></li>
+  <li>Usar la funcion MIN para calcular el menor número de solicitudes recibidas en un mes.En la celda A16 escribe (MIN) y en la celda B16 escribe =MIN(B2:B13)</li>
+  <li>Usar la funcion MAX para calcular el mayor número de solicitudes recibidas en un mes.En la celda A17 escribe (MAX) y en la celda B17 escribe =MAX(B2:B13)</li>
+  <li>Usar la funcion PROMEDIO para calcular el promedio de solicitudes mensuales recibidas en 2019.En la celda A18 escribe (PROMEDIO) y en la celda B18 escribe  =PROMEDIO(B2:B13).</li>
 </ol>
+
+<hr>
+<h3 align="center">:ballot_box_with_check:Respuestas</h3>
