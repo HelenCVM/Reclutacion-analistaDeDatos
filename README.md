@@ -50,18 +50,18 @@ La agencia pide que se optimice proceso de solicitud en línea. La tarea es resu
 <h3 align="center">:ballot_box_with_check:Respuestas</h3>
 <ul>
   <li>¿Cuál fue el número total de solicitudes recibidas por mes en 2019?----R/</li>
-January	2387
-February	2312
-March	2536
-April	2544
-May	2954
-June	2990
-July	3138
-August	2969
-September	2865
-October	2751
-November	2508
-December	2642
+  <p>January	2387</p>
+<p>February	2312</p>
+<p>March	2536</p>
+<p>April	2544</p>
+<p>May	2954</p>
+<p>June	2990</p>
+<p>July	3138</p>
+<p>August	2969</p>
+<p>September	2865</p>
+<p>October	2751</p>
+<p>November	2508</p>
+<p>December	2642</p>
   <li>¿En qué meses se recibió el menor y el mayor número de solicitudes totales?----R/</li>
 Menor numero de solicitudes------February	2312
 Mayor numero de solicitudes------July	3138
