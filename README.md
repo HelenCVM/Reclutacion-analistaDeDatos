@@ -29,4 +29,21 @@ La agencia pide que se optimice proceso de solicitud en línea. La tarea es resu
   <li>Easy Apply(Fácil de aplicar):</li>(Verdadero) si la solicitud se presentó directamente en el sitio web de la agencia;(Falso) si la solicitud se descargó y presentó por correo electrónico.
 </ul>
 
-
+<h4>PASOS:</h4>
+<ol>
+  <li>Ordenar los datos(por fecha(Date))</li>
+  <li>Añadir hoja de calculo con nombre(datos_de_resumen). Esta nueva hoja va a dar respuesta a las preguntas iniciales del analisis</li>
+  <li>En la fila 1 agregamos las etiquetas A1:(Mes(Month) y B1:(Applicants(Solicitantes))</li>
+  <li>En la celda A2 agregamos el mes (Enero(January)) y usamos el "autocompletar" para rellenar todos los meses</li>
+  <li>Volvemos a la hoja (datos_sin_procesar). Agregamos en la celda G1 la etiqueta (Mes(Month).</li>
+  <li>En la celda a continuacion G2, vamos a utilizar la funcion "TEXTO" para convertir los valores numericos de la fecha en texto, que ayudara a determinar la cantidad de solicitudes por mes. En celda G2 quedaria la funcion -> =TEXTO(B2,"mmmm") y utilizo el autocompletar para llenar todas las celdas de la columna con el mes correspondiente.</li>
+  <li>Volver a la hoja de calculo (datos_de_resumen).En la celda B2 utilizo la funcion CONTAR.SI para contar la cantidad de solicitudes durante el mes, es decir las veces que aparece un criterio en un intervalo</li>
+  <li>En la celda B2, escribe =CONTAR.SI('datos_sin_procesar'!G:G,A2). La primera entrada ('datos_sin_procesar'!G:G) se refiere al intervalo en el cual se están contando los datos. El intervalo está en tu hoja de datos sin procesar ('datos_sin_procesar'!) e incluye toda la columna G(G:G). Esta columna contiene los datos de los meses. La segunda entrada (A2) se refiere al criterio que deseas contar. En este caso, el valor de la celda A2 de tu hoja de datos de resumen es “Enero(January)”. La función te dirá cuántas veces aparece Enero(January) (el criterio) en la columna Fecha (el intervalo).</li>
+  <li>Copiamos la funcion para las siguientes celdas</li>
+  <li>Usar la funcion (SUM) para sumar todas las solicitudes del año. El celda A14 escribo(Total) y en B14 la funcion (=SUMA(B2:B13))</li>
+  <li>Usar la funcion MIN</li>
+  <li>Usar la funcion MAX</li>
+  <li>Usar la funcion PROMEDIO</li>
+  <li></li>
+  <li></li>
+</ol>
