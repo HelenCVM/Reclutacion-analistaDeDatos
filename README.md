@@ -15,7 +15,7 @@ La agencia pide que se optimice proceso de solicitud en línea. La tarea es resu
 <h4> Para ello se trabajara con la siguiente hoja de calculo:</h4> [Datos sin porcesar:Excel](https://github.com/HelenCVM/Reclutacion-analistaDeDatos/blob/main/datos-sin-procesar.xlsx) 
 
 <hr>
-<h4> Problematica:</h4>Encontrar personas calificadas para optar por puestos de trabajo de analistas de datos de la informacion recolectada del sitio web de una agencia
+<h4> Problematica:</h4>Encontrar personas calificadas para optar por puestos de trabajo de analistas de datos con la informacion recolectada del sitio web de una agencia
 
 <hr>
 <h4>Variables o etiquetas:</h4>Los datos de la agencia contienen información sobre todas las solicitudes de empleo de análisis de datos recibidas en 2019. Los datos incluyen los siguientes encabezados de columna: Identificación del solicitante, Fecha, Título del trabajo, Ubicación del trabajo, Contratación y Solicitud fácil. A continuación, se muestra una descripción de cada encabezado de columna y ejemplos de valores.
@@ -27,3 +27,5 @@ La agencia pide que se optimice proceso de solicitud en línea. La tarea es resu
   <li>Hired(Contratado):Indica si un candidato ha sido contratado</li>
   <li>Easy Apply(Fácil de aplicar):</li>(Verdadero) si la solicitud se presentó directamente en el sitio web de la agencia;(Falso) si la solicitud se descargó y presentó por correo electrónico.
 </ul>
+
+
